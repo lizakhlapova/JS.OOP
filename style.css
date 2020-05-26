@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+html,
+body {
+    width: 96%;
+    font-family: sans-serif;
+    padding: 2%;
+}
+.user{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+.text{
+    width: 60%;
+    padding: 2%;
+}
+.block{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+h2{
+    font-family: 'Marck Script', cursive;
+}
+b{
+    font-family: cursive;
+}
